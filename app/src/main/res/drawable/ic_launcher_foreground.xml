@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Green Bullish Candle 1 -->
+    <path
+        android:fillColor="#00FFA3"
+        android:pathData="M30,34 L30,76"
+        android:strokeWidth="1.8"
+        android:strokeColor="#00FFA3" />
+    <path
+        android:fillColor="#00FFA3"
+        android:pathData="M24,44 L36,44 L36,68 L24,68 Z" />
+
+    <!-- Red Bearish Candle 2 -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M48,40 L48,82"
+        android:strokeWidth="1.8"
+        android:strokeColor="#FF5252" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M42,50 L54,50 L54,72 L42,72 Z" />
+
+    <!-- Green Bullish Candle 3 -->
+    <path
+        android:fillColor="#00FFA3"
+        android:pathData="M66,24 L66,70"
+        android:strokeWidth="1.8"
+        android:strokeColor="#00FFA3" />
+    <path
+        android:fillColor="#00FFA3"
+        android:pathData="M60,34 L72,34 L72,62 L60,62 Z" />
+
+    <!-- Cyan Upward Trend Line -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M18,74 Q42,60 56,48 T88,24"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round" />
+
+    <!-- Live Pulse Dot -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M88,24 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+
+    <!-- Notification Bell Badge Circle -->
+    <path
+        android:fillColor="#151D2E"
+        android:pathData="M78,74 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFD600" />
+
+    <!-- Notification Bell Icon -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M78,65 C75,65 73,67 73,70 C73,74 71,76 69,77 L87,77 C85,76 83,74 83,70 C83,67 81,65 78,65 Z" />
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M76,78 C76,79.1 76.9,80 78,80 C79.1,80 80,79.1 80,78 Z" />
+</vector>
